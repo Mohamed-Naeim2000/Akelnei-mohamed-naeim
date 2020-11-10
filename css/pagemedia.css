@@ -1,0 +1,198 @@
+@media(max-width:770px){
+.navbar{
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    margin-top: -20px;
+    position: fixed;
+    background-color: white;
+        z-index: 099999;
+}
+    .body{
+        width: 100%;
+    }
+.navbar .logo{
+    overflow: hidden;
+    width: 55%;
+    float: left;
+    margin-left: 51px;
+    padding-bottom: 7px;
+}
+.navbar .logo img{
+    width: 60%;
+    height: 73px;
+    margin-top: 20px;
+}
+ .button2{
+     display: block;
+     margin-top: 36px;
+    margin-left: 74%;     
+}
+.btn1{
+    margin-left: 5px;
+    font-size: 29px;
+    margin-top: 10px;
+    width: 100%;
+    height: 47px;
+}
+ .btn-orange {
+   background-color: #ff8500;
+    color: white;
+    margin-top: 21px;
+    width: 100%;
+    height: 47px;
+     font-size: 31px;
+    }
+.press{
+display: block;
+    width: 50px;
+    height: 50px;
+}
+.navbar .list{
+    margin-right: 5%;
+    display: none;
+     width: 90%;
+    height: auto;
+    background-color: #c9c9c9;
+    margin-left: 6%;
+    padding-bottom: 15px;
+    margin-top: 4px;
+   border: 1px solid orange; 
+}
+.navbar .list ul{
+    height: auto;
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+.navbar .list ul li{
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+    width: 100%;
+    float: none;
+    margin-left: 0px;  
+}
+    .b2{
+     margin-left: 7pc;
+    width: 100px;
+    height: 43px;
+    font-size: 22px;
+    margin-top: 16px;
+         background-color: #ff8500;
+    }
+    .beef{
+        width: 100%;
+        margin-top: 3%;
+    } 
+    .massage{
+        width: 95%;
+    height: 300px;
+    }
+    .massage p{
+    text-align: center;
+    font-size: 18px;
+}
+.form-group-half{
+    width: 50%;
+}
+
+.form-group-half input,.form-group-two input{
+    padding-left: 27px;
+} 
+
+.form-group-two,.form-group-half{
+     width: 93%;
+}
+
+ .features .feature {
+     margin-top: 43px;
+    }
+    hr {
+    width: 38%;
+    }
+    .offer .view {
+    margin-left: 79px;
+}
+    .navbar .list ul li a{
+    text-decoration: none;
+    color: black;
+}
+}
+    /*-----------------------------------------------------------*/
+@media  (min-width:1000px)and (max-width: 1100px){
+.body{
+   width: 100%;
+}
+
+.navbar .logo img{
+    width: 66%;
+    height: 73px;
+    margin-top: 20px;
+}
+
+.b2{
+    margin-left: 169px;
+    background-color: #ff8500;
+    font-size: 35px;
+    color: white;
+    width: 127px;
+    height: 45px;
+    border: 0;
+}
+.banner1{
+width: 50%;
+margin-left: -61px;
+ }
+.banner2{
+ width: 40%;
+margin-right: 24px       
+}
+
+.navbar .list{
+  
+}
+
+    .feature1{
+    margin-left: 52%;
+    width: 463px;
+    }
+.navbar .list ul li a{
+    text-decoration: none;
+    color: black;
+}
+    }
+    
+    /*-----------------------------------------------------------*/
+@media  (min-width:760px)and (max-width: 770px){
+.feature1{
+    margin-left: 115px;
+    width: 434px;
+    }
+.b2{
+    margin-left: 307px;
+
+    } 
+    .offer .view {
+    margin-left: 242px;
+    
+}  
+.navbar .list ul li a{
+    text-decoration: none;
+    color: black;
+}
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
